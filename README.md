@@ -40,7 +40,7 @@ subtitle: Become your own hero
 description: VaryGames is an award-winning blog that helps you live a dream life with blogging. VaryGames covers topics about WordPress, SEO, Hexo, making money through blogging, and affiliate marketing.
 keywords:
 # 作者名称，会显示在侧边栏
-author: zizhuspot
+author: Aaron
 ```
 
 侧边栏作者信息栏的描述可以在 `_config.butterfly.yml` 文件中修改：
