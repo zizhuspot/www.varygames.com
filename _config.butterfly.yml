@@ -912,7 +912,7 @@ inject:
   head:
     - <link rel="stylesheet" href="/custom.css">
   bottom:
-    - <script async src="https://nwwais.com/pw/waWQiOjExNTEyMDMsInNpZCI6MTI3MjM1NSwid2lkIjo0ODcyMDYsInNyYyI6Mn0=eyJ.js"></script>
+
 # CDN
 # Don't modify the following settings unless you know how they work
 # 非必要請不要修改
